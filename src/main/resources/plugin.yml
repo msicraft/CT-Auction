@@ -1,0 +1,5 @@
+name: CT-Auction
+version: 1.0 #'${project.version}'
+main: me.msicraft.ctauction.CTAuction
+api-version: '1.20'
+depend: [Vault]
