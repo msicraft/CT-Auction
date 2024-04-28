@@ -33,7 +33,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.2.2</version>
                 <configuration>
-                    <outputDirectory>B:\Bukkit\1.20.4 spigot test\plugins</outputDirectory>
+                    <outputDirectory>B:\IdeaProjects\치즈타운 플러그인\플러그인</outputDirectory>
                 </configuration>
             </plugin>
             <plugin>
@@ -69,10 +69,6 @@
       <repository>
           <id>sonatype</id>
           <url>https://oss.sonatype.org/content/groups/public/</url>
-      </repository>
-      <repository>
-          <id>jitpack.io</id>
-          <url>https://jitpack.io</url>
       </repository>
       <repository>
           <id>jitpack.io</id>

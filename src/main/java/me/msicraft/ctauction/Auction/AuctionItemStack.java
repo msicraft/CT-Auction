@@ -6,7 +6,7 @@ import java.util.UUID;
 
 public class AuctionItemStack {
 
-    private final UUID ownerUUID;
-    private final ItemStack itemStack;
+    //private final UUID ownerUUID;
+    //private final ItemStack itemStack;
 
 }
