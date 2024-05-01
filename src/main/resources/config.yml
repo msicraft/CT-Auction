@@ -1,0 +1,5 @@
+DefaultSettings:
+  ExpirationTime: 86400
+  MaxItems: 6
+  #ConditionTime: 180
+  #IncreaseTime: 180
